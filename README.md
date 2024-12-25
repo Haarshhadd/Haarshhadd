@@ -11,13 +11,11 @@ Hello there! 👋 I’m Harshad, a Master’s student in Computer Science with a
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 📊 GitHub Stats:
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Haarshhadd&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haarshhadd&theme=transparent&hide_border=true" alt="GitHub Streak"><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haarshhadd&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api?username=Haarshhadd&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haarshhadd&theme=dark&hide_border=true" alt="GitHub Streak"><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haarshhadd&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </div>
 
-## 📈 Contribution Graph:
-[![Harshad's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Haarshhadd&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## 🏆 GitHub Trophies:
