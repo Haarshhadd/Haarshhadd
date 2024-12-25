@@ -1,74 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+# 💫 About Me:
+Hello there! 👋 I’m Harshad, a Master’s student in Computer Science with a strong curiosity for technology and its ability to transform the world around us. My journey in the tech space is fueled by a blend of passion, exploration, and continuous learning.<br><br>🔍 Who Am I?<br>I’m a tech enthusiast with a keen interest in diverse domains like full stack backend development, AI/ML, and crafting efficient, scalable systems. My academic and personal projects have given me a foundation to explore how technology can bridge gaps, solve problems, and create meaningful connections.<br><br>🌟 What Drives Me?<br><br>The challenge of turning ideas into functional, impactful solutions.<br>Exploring the endless potential of artificial intelligence and how it intersects with other fields of technology.<br>Building a deep understanding of programming paradigms and frameworks that lay the groundwork for cutting-edge innovations.<br>📚 My Approach to Learning<br>I believe in stepping out of my comfort zone to embrace new tools, languages, and methodologies. For me, learning is a continuous process that thrives on curiosity and adaptability.<br><br>💡 Beyond Code<br>Outside of tech, I enjoy delving into problem-solving challenges, solo traveling to refresh my mind, and connecting with like-minded individuals. My background has taught me resilience and the value of community, which I carry into my work.<br><br>🌟 What’s Next?<br>I’m excited to explore opportunities to grow, contribute to impactful projects, and collaborate with professionals in the tech ecosystem.<br><br>📬 Let’s Connect<br>If you share a passion for technology or have an exciting idea, I’d love to hear from you!
 
 
-<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"></a> , I'm Harshad Dhokane</h1>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshad-dhokane-776824316/) 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Haarshhadd&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Haarshhadd&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Haarshhadd&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
+---
+[![](https://visitcount.itsvg.in/api?id=Haarshhadd&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Haarshhadd&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
-</p>
-
-
-<h2 align="center">🚀 About Me</h2>
-
-As a versatile Computer Science student and Full-Stack Developer, I specialize in Java development, Artificial Intelligence/Machine Learning. With a proven track record of driving innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
-
-<h3 align="center">Git Stats</h3>
-
-<div align="center">
- 
-  <img src="https://streak-stats.demolab.com/?user=Haarshhadd&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-  <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haarshhadd&custom_title=Kenan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
-<br>
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haarshhadd&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haarshhadd&theme=highcontrast&hide_border=true" alt="Repos Per Language">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Haarshhadd&theme=highcontrast&hide_border=true" alt="Most Commit Language">
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Haarshhadd&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Harshad's GitHub stats">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haarshhadd&theme=highcontrast&hide_border=true">
-
-
-
-
-### GitHub Contribution Chart
-<a href="https://github.com/Haarshhadd">
-    <img src="https://ghchart.rshah.org/Haarshhadd" alt="Harshad's GitHub Contribution Chart">
-</a>
-
-
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
-  </summary>
-  
-  <img src="https://myreadme.vercel.app/api/embed/Haarshhadd?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="KenanGain's GitHub Stats">
-      <img src="https://github-readme-bento.vercel.app/stats/Haarshhadd?theme=dark" alt="Harshad's GitHub Stats">
-      <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Haarshhadd" alt="Advanced GitHub Stats for KenanGain" width="400">
-
-
-</details>
-
-
-<br>
-
-<br>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
