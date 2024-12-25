@@ -1,5 +1,11 @@
 # 💫 About Me:
 Hello there! 👋 I’m Harshad, a Master’s student in Computer Science with a strong curiosity for technology and its ability to transform the world around us. My journey in the tech space is fueled by a blend of passion, exploration, and continuous learning.<br><br>
+🔭 I’m currently working on building Web development, AI-driven solutions and contributing to open-source projects.<br>  
+👯 I’m looking to collaborate on innovative projects that involve **AI**, **Machine Learning**, and **Web Development**.<br>  
+🤝 I’m looking for help with enhancing my skills in **Cloud Computing** and **Blockchain Technology**.<br>  
+🌱 I’m currently learning **TensorFlow**, **PyTorch**, and **Neo4j** to deepen my knowledge of data science and graph databases.<br>  
+💬 Ask me about **programming, database technologies, and career advice in computer science**.<br>  
+⚡ Fun fact: I’m a fan of automating repetitive tasks and finding elegant solutions to complex problems!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshad-dhokane-776824316/) 
