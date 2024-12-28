@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there! 👋 I’m Harshad, a Master’s student in Computer Science with a strong curiosity for technology and its ability to transform the world around us. My journey in the tech space is fueled by a blend of passion, exploration, and continuous learning.<br><br>
+hello welcome to my github...Hello there! 👋 I’m Harshad, a Master’s student in Computer Science with a strong curiosity for technology and its ability to transform the world around us. My journey in the tech space is fueled by a blend of passion, exploration, and continuous learning.<br><br>
 🔭 I’m currently working on building Web development, AI-driven solutions and contributing to open-source projects.<br>  
 👯 I’m looking to collaborate on innovative projects that involve **AI**, **Machine Learning**, and **Web Development**.<br>  
 🤝 I’m looking for help with enhancing my skills in **Cloud Computing** and **Blockchain Technology**.<br>  
