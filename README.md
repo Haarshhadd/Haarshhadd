@@ -17,15 +17,15 @@ Hello there! 👋 I’m Harshad, a Master’s student in Computer Science with a
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 📊 GitHub Stats:
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Haarshhadd&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haarshhadd&theme=dark&hide_border=true" alt="GitHub Streak"><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haarshhadd&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api?username=harshad-dhokane&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshad-dhokane&theme=dark&hide_border=true" alt="GitHub Streak"><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshad-dhokane&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </div>
 
 
 
 ## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Haarshhadd&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=harshad-dhokane&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Haarshhadd&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=harshad-dhokane&icon=0&color=0)](https://visitcount.itsvg.in)
